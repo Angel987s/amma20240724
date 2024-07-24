@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Amma20240724Application<amma20240724>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.amma20240724.amma20240724.Amma20240724Application",
+            "projectName": "amma20240724",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
